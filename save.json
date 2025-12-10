@@ -1,0 +1,18 @@
+{
+  "player": {
+    "name": "Hero",
+    "hp": 80,
+    "attack": 20
+  },
+  "enemy": {
+    "name": "Slime",
+    "hp": 0,
+    "attack": 10
+  },
+  "history": [
+    "Hero HP: 90, Slime HP: 40",
+    "Hero HP: 80, Slime HP: 20",
+    "Hero HP: 80, Slime HP: 0"
+  ],
+  "turn": 0
+}
